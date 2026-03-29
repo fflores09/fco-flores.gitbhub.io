@@ -1,5 +1,5 @@
-title: Francisco Flores
-logo: /assets/img/yo.png
+title: "Francisco Flores"
+logo: "/assets/img/yo.png"
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
