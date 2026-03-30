@@ -7,8 +7,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="Time Series Analysis" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;
-<img src="/assets/seaborn-logo.png" alt="Seaborn" width="40" height="40"/> &nbsp;
-<img src="/assets/Tableau-Logo.png" alt="Tableau" width="40" height="40"/> &nbsp;
+<img src="/assets/seaborn-logo.png" width="32" height="40"/> &nbsp;
+<img src="/assets/Tableau-Logo.png" width="32" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/>
 
