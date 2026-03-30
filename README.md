@@ -15,6 +15,7 @@ Maestría en Electrónica y Comunicaciones con certificado y en transición a Da
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="Time Series Analysis" width="40" height="40"/> &nbsp;
+<img src="assets/logos/statsmodels-logo.svg" alt="Statsmodels" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;
 <img src="assets/seaborn-logo.png" width="40" height="40"/> &nbsp;
@@ -26,6 +27,8 @@ Maestría en Electrónica y Comunicaciones con certificado y en transición a Da
 <br>
 
 # **Proyectos**
+<br>
+<br>
 
 ## Predicción de clientes que se dan de baja
 
@@ -71,6 +74,44 @@ Herramientas utilizadas: <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
 <br>
 <br>
+
+## Predicción de demanda de taxis en aeropuerto
+
+### **Objetivo**
+Desarrollar un modelo predictivo para anticipar la cantidad de pedidos de taxis en aeropuertos durante la próxima hora, optimizando la disponibilidad de conductores en horarios pico y mejorando la eficiencia operativa de la compañía Sweet Lift Taxi.
+
+### **Alcance del Proyecto**
+**Datos utilizados:** históricos de pedidos de taxis en aeropuertos.
+
+**Transformación temporal:** series convertidas a horas y días para identificar tendencias y estacionalidad.
+
+**Análisis exploratorio:** revisión de patrones, tendencias y residuales en diferentes escalas temporales.
+
+### **Metodología**
+Carga y limpieza de datos en Jupyter Notebook.
+
+Visualización de series temporales para detectar estacionalidad y tendencias.
+
+Entrenamiento de modelos con ajuste de parámetros.
+
+Validación en conjunto de prueba con métrica clave: RMSE < 48.
+
+### **Modelos Evaluados**
+Regresión Lineal: desempeño limitado, no cumple con el objetivo.
+
+Árbol de Decisión: RMSE < 48, cumple con el requisito.
+
+Random Forest: mejor desempeño global, RMSE más bajo y mayor capacidad de generalización.
+
+### **Resultados Clave**
+Dos modelos (Árbol de Decisión y Random Forest) cumplen con el objetivo de RMSE < 48.
+
+El Random Forest se posiciona como la mejor opción para predecir la demanda horaria de taxis.
+
+Se identificaron patrones de estacionalidad y tendencias claras entre marzo y octubre de 2018.
+
+Herramientas utilizadas: <br>
+
 <br>
 
 # **Educación**
