@@ -110,9 +110,15 @@ Random Forest: mejor desempeño global, RMSE más bajo y mayor capacidad de gene
 ### **Resultados Clave**
 Dos modelos (Árbol de Decisión y Random Forest) cumplen con el objetivo de RMSE < 48.
 
+<img src="assets/resumen-resultados.jpg" alt="Proyecto" width="600">
+
 El Random Forest se posiciona como la mejor opción para predecir la demanda horaria de taxis.
 
 Se identificaron patrones de estacionalidad y tendencias claras entre marzo y octubre de 2018.
+
+<img src="assets/serie tiempo hora.png" alt="Serie hora" width="600" >
+
+<img src="assets/serie tiempo hora varios parametros.png" alt="Serie hora varios" width="600">
 
 Herramientas utilizadas: <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;
