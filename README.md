@@ -15,7 +15,7 @@ Maestría en Electrónica y Comunicaciones con certificado y en transición a Da
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="Time Series Analysis" width="40" height="40"/> &nbsp;
-<img src="assets/logos/statsmodels-logo.svg" alt="Statsmodels" width="40" height="40"/> &nbsp;
+<img src="assets/statsmodels.png" alt="Statsmodels" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;
 <img src="assets/seaborn-logo.png" width="40" height="40"/> &nbsp;
@@ -111,7 +111,52 @@ El Random Forest se posiciona como la mejor opción para predecir la demanda hor
 Se identificaron patrones de estacionalidad y tendencias claras entre marzo y octubre de 2018.
 
 Herramientas utilizadas: <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;
+<img src="assets/statsmodels.png" alt="Statsmodels" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> &nbsp;
+<br>
+<br>
 
+## Proyecto de visión artificial para cumplimiento legal
+
+### **Objetivo**
+Desarrollar un modelo de visión artificial que permita verificar la edad de clientes en supermercados al momento de comprar alcohol, garantizando el cumplimiento de la normativa y reduciendo riesgos legales para la cadena Good Seed.
+
+### **Alcance del Proyecto**
+**Datos utilizados:** fotografías de personas con edad conocida.
+
+**Contexto de aplicación:** cámaras en áreas de pago que se activan ante compras de alcohol.
+
+**Meta del modelo:** lograr un Error Absoluto Medio (MAE) < 8 años en la predicción de edad.
+
+### **Metodología**
+**Análisis exploratorio de datos:** revisión de distribución de edades y validación de imágenes.
+
+Entrenamiento de modelos de visión artificial con redes neuronales convolucionales (CNN).
+
+**Uso de arquitecturas avanzadas:** ResNet50, capas de GlobalAveragePooling2D y Dense.
+
+Optimización con Adam y evaluación mediante métricas MAE y MSE.
+
+### **Resultados Clave**
+Reducción del error de 11.47 a 7.21 años, cumpliendo con el objetivo de MAE < 8.
+
+El modelo alcanzó la meta en solo 4 épocas, mostrando rápida convergencia.
+
+Diferencia entre entrenamiento y validación dentro de rangos aceptables.
+
+Mayor presencia de edades entre 23 y 30 años en el dataset, lo que permitió validar tendencias.
+
+Herramientas: <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> &nbsp;
+<br>
 <br>
 
 # **Educación**
