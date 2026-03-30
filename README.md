@@ -1,7 +1,7 @@
 # Científico de datos
 
 ### **Acerca de mi**
-Maestría en Electrónica y Comunicaciones y en transición a Data Scientist
+Maestría en Electrónica y Comunicaciones y en transición a Data Scientist con experiencia en dirigir a proyectos y también en proyectos utilizando Python, Pandas, Machine Learning, Data Wrangling, Big Data. 
 
 ### **Herramientas**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
