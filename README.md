@@ -1,7 +1,7 @@
 # Científico de datos
 
 ### **Acerca de mi**
-Maestría en Electrónica y Comunicaciones y en transición a Data Scientist con experiencia en dirigir a proyectos y también en proyectos utilizando Python, Pandas, Machine Learning, Data Wrangling, Big Data. 
+Maestría en Electrónica y Comunicaciones con certificado y en transición a Data Scientist y experiencia en dirigir proyectos de nuevos productos.  Durante la certificación en Data Scientist, desarrolle múltiples proyectos para diferentes empresas enfocados en tomas de decisiones de negocio para nuevas estrategias, utilizando grandes volúmenes de datos y visualizaciones para mayor claridad. Dentro de las herramientas o técnicas utilizadas para dichos proyectos se encuentran Python, SQL, Big Data, Machine Learning y Data Wrangling. 
 
 ### **Herramientas**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
