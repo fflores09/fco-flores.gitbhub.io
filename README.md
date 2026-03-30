@@ -60,14 +60,14 @@ Decision Tree: desempeño sólido (ROC 0.84, F1 0.63).
 
 Random Forest: mejor resultado global (ROC 0.86 en prueba, F1 0.66, accuracy 0.79).
 
- <img src="assets/resultados-metrica.png" alt="Results">
+ <img src="assets/resultados-metrica.png" alt="Results" width="600">
 
 ### **Resultados Clave**
 El modelo predijo una tasa de cancelación del 35% vs. 27% real, con un margen de sobreestimación del 8%.
 
 Identificación de servicios más afectados por la cancelación: fibra óptica, telefonía fija y streaming.
 
-<img src="assets/servicios-cancelacion.png" alt="Churned">
+<img src="assets/servicios-cancelacion.png" alt="Churned" width="600">
 
 Herramientas utilizadas: <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;
