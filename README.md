@@ -145,6 +145,8 @@ Desarrollar un modelo de visión artificial que permita verificar la edad de cli
 ### **Metodología**
 **Análisis exploratorio de datos:** revisión de distribución de edades y validación de imágenes.
 
+<img src="assets/EDA.png" alt="EDA" width="600">
+
 Entrenamiento de modelos de visión artificial con redes neuronales convolucionales (CNN).
 
 **Uso de arquitecturas avanzadas:** ResNet50, capas de GlobalAveragePooling2D y Dense.
@@ -159,6 +161,8 @@ El modelo alcanzó la meta en solo 4 épocas, mostrando rápida convergencia.
 Diferencia entre entrenamiento y validación dentro de rangos aceptables.
 
 Mayor presencia de edades entre 23 y 30 años en el dataset, lo que permitió validar tendencias.
+
+ <img src="assets/customers.png" alt="customers" width="600">
 
 Herramientas: <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;
