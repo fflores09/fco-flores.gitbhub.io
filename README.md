@@ -187,6 +187,12 @@ Herramientas: <br>
 
 
 
+<a href="https://public.tableau.com/views/3_3_contract_type_solution_17730197868050/Customerchurn?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" style="text-decoration: none; color: #0366d6;">
+  <img src="assets/Tableau-Logo.png" width="30" style="vertical-align: middle; margin-right: 8px;">
+  <span style="vertical-align: middle;">https://public.tableau.com/views/3_3_contract_type_solution_17730197868050/Customerchurn?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link</span>
+</a>
+
+
 # **Educación**
 * **Científico de datos**, Tripleten bootcamp (2026) <br>
 * **Electrónica y Comunicaciones**, Maestría en Tecnológico de Monterrey (2014) <br>
