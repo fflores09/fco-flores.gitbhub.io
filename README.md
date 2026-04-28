@@ -132,9 +132,9 @@ Herramientas utilizadas: <br>
 <br>
 <br>
 
-<a href="https://github.com/fflores09/airport-taxi-forecasting" target="_blank" style="text-decoration: none; color: inherit;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="GitHub Logo" style="vertical-align: middle;">
-  <span>https://github.com/fflores09/airport-taxi-forecasting</span>
+<a href="https://github.com/fflores09/airport-taxi-forecasting" target="_blank" style="text-decoration: none; color: #0366d6;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="GitHub Logo" style="vertical-align: middle; margin-right: 8px;">
+  <span style="vertical-align: middle;">https://github.com/fflores09/airport-taxi-forecasting</span>
 </a>
 
 
