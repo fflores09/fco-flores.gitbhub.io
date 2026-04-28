@@ -78,8 +78,9 @@ Herramientas utilizadas: <br>
 <br>
 <br>
 
-<a href="https://github.com/fflores09/customer-churn-telecom" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub Logo">
+<a href="https://github.com/fflores09/customer-churn-telecom" target="_blank" style="text-decoration: none; color: inherit;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="GitHub Logo" style="vertical-align: middle;">
+  <span>https://github.com/fflores09/customer-churn-telecom</span>
 </a>
 
 
