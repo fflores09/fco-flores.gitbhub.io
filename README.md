@@ -84,6 +84,7 @@ Herramientas utilizadas: <br>
 </a>
 
 
+
 ## Predicción de demanda de taxis en aeropuerto
 
 ### **Objetivo**
@@ -131,8 +132,11 @@ Herramientas utilizadas: <br>
 <br>
 <br>
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub Logo">
-https://github.com/fflores09/airport-taxi-forecasting
+<a href="https://github.com/fflores09/airport-taxi-forecasting" target="_blank" style="text-decoration: none; color: inherit;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="GitHub Logo" style="vertical-align: middle;">
+  <span>https://github.com/fflores09/airport-taxi-forecasting</span>
+</a>
+
 
 
 ## Proyecto de visión artificial para cumplimiento legal
@@ -176,7 +180,12 @@ Herramientas: <br>
 <br>
 <br>
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub Logo"> https://github.com/fflores09/customer-age-identification
+<a href="https://github.com/fflores09/customer-age-identification" target="_blank" style="text-decoration: none; color: inherit;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="GitHub Logo" style="vertical-align: middle;">
+  <span>https://github.com/fflores09/customer-age-identification</span>
+</a>
+
+
 
 # **Educación**
 * **Científico de datos**, Tripleten bootcamp (2026) <br>
