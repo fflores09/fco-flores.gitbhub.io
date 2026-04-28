@@ -78,7 +78,9 @@ Herramientas utilizadas: <br>
 <br>
 <br>
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub Logo"> <a href="(https://github.com/fflores09/customer-churn-telecom)" target="_blank">
+<a href="https://github.com/fflores09/customer-churn-telecom" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub Logo">
+</a>
 
 
 ## Predicción de demanda de taxis en aeropuerto
