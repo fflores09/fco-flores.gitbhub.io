@@ -68,8 +68,6 @@ El modelo predijo una tasa de cancelación del 35% vs. 27% real, con un margen d
 
 Identificación de servicios más afectados por la cancelación: fibra óptica, telefonía fija y streaming.
 
-<img src="assets/servicios-cancelacion.png" alt="Churned" width="600">
-
 Herramientas utilizadas: <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
@@ -79,6 +77,9 @@ Herramientas utilizadas: <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
 <br>
 <br>
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub Logo"> https://github.com/fflores09/customer-churn-telecom
+
 
 ## Predicción de demanda de taxis en aeropuerto
 
@@ -117,10 +118,6 @@ El Random Forest se posiciona como la mejor opción para predecir la demanda hor
 
 Se identificaron patrones de estacionalidad y tendencias claras entre marzo y octubre de 2018.
 
-<img src="assets/serie tiempo hora.png" alt="Serie hora" width="600" >
-
-<img src="assets/serie tiempo hora varios parametros.png" alt="Serie hora varios" width="600">
-
 Herramientas utilizadas: <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
@@ -130,6 +127,10 @@ Herramientas utilizadas: <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> &nbsp;
 <br>
 <br>
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub Logo">
+https://github.com/fflores09/airport-taxi-forecasting
+
 
 ## Proyecto de visión artificial para cumplimiento legal
 
@@ -163,8 +164,6 @@ Diferencia entre entrenamiento y validación dentro de rangos aceptables.
 
 Mayor presencia de edades entre 23 y 30 años en el dataset, lo que permitió validar tendencias.
 
- <img src="assets/customers.png" alt="customers" width="600">
-
 Herramientas: <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
@@ -173,6 +172,8 @@ Herramientas: <br>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> &nbsp;
 <br>
 <br>
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub Logo"> https://github.com/fflores09/customer-age-identification
 
 # **Educación**
 * **Científico de datos**, Tripleten bootcamp (2026) <br>
